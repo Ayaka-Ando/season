@@ -1,0 +1,5 @@
+functions-framework
+pdf2image
+Pillow
+flask
+google-cloud-vision
